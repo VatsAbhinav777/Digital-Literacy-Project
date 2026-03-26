@@ -34,7 +34,7 @@ In this task, I studied a cybercrime case(like UPI Fraud and Phishing) and creat
 Canva: https://www.canva.in/  
 GitHub: https://github.com/  
 Google Form (Task 3):     
-LinkedIn Profile: www.linkedin.com/in/vats-abhinav-nawin-kumar-50b230369)   
+LinkedIn Profile: www.linkedin.com/in/vats-abhinav-nawin-kumar-50b230369    
 Hackerrank: https://www.hackerrank.com/  
 Kaggle: https://www.kaggle.com/  
 Cybercrime Portal: https://www.cybercrime.gov.in/
