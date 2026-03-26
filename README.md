@@ -2,8 +2,8 @@
 
 ## Student Details
 Name: Vats Abhinav Nawin Kumar  
-Registration Number: 25BAI10238
-Branch: B.Tech CSE (AI & ML)
+Registration Number: 25BAI10238  
+Branch: B.Tech CSE (AI & ML)  
 Course: Digital Literacy (CSE0001)
 Year: First Year  
 
